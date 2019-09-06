@@ -61,17 +61,17 @@ footer-text: Copyright (c) 2019 Avennx
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: #loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 7373954ff2f313580f80
+  clientSecret: ee587d62ae9cb2a4249f6049f5a78bdf5826de84
+  repo: blog
+  owner: kokoyy
 
 # 输入Google Analytics web tracking code
-google_analytics:
+google_analytics: UA-147212353-1
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: blog.avennx.com
